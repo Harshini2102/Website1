@@ -1,1 +1,1 @@
-templatemo_553_xtra_blog
+xtra blog
